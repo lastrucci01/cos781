@@ -8,7 +8,8 @@ This repository contains the code and data for my COS 781 Project, focusing on b
 
 ### 1. **Data**
 - Located in the `data` folder.
-- Includes raw data, intermediate files, and preprocessed datasets.
+- Excludes the raw data and intermediate data due to size, please contact me if you wish to have them
+- Includes the preprocessed and application datasets.
 - The workflow starts with the source data and progresses through intermediate, preprocessed, and final application stages.
 
 ### 2. **Code**
